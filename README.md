@@ -75,9 +75,9 @@ MyFiltered.News 是一个简单而强大的个性化新闻聚合平台，允许�
 ## 联系方式
 
 - 网站：[www.myfiltered.news](http://www.myfiltered.news)
-- 电子邮件：[contact@filtered.news](mailto:contact@myfiltered.news)
-- GitHub：[github.com/yourusername/filtered-news](https://github.com/amozeng/myfiltered-news)
+- 电子邮件：[contact@myfiltered.news](mailto:contact@myfiltered.news)
+- GitHub：[github.com/amozeng/myfiltered-news](https://github.com/amozeng/myfiltered-news)
 
 ---
 
-*Filtered.News - 让新闻阅读回归本质*
+*MyFiltered.News - 让新闻阅读回归本质*
