@@ -1,5 +1,5 @@
-# myfiltered-news
-# Filtered.News - 个性化新闻聚合平台
+
+# [MyFiltered.News](http://www.myfiltered.news) - 个性化新闻聚合平台
 
 ![MyFiltered.News Logo](https://via.placeholder.com/150x50?text=Filtered.News)
 
@@ -74,8 +74,8 @@ MyFiltered.News 是一个简单而强大的个性化新闻聚合平台，允许�
 
 ## 联系方式
 
-- 网站：[www.myfiltered.news](https://www.filtered.news)
-- 电子邮件：[contact@filtered.news](mailto:contact@filtered.news)
+- 网站：[www.myfiltered.news](http://www.myfiltered.news)
+- 电子邮件：[contact@filtered.news](mailto:contact@myfiltered.news)
 - GitHub：[github.com/yourusername/filtered-news](https://github.com/amozeng/myfiltered-news)
 
 ---
